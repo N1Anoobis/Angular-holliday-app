@@ -12,6 +12,6 @@ export class MapComponent implements OnInit {
 
   ngOnInit(): void {
     this.map.buildMap()
+  
   }
-
 }
